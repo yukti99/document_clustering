@@ -1,0 +1,31 @@
+There are many things that people encounter on an everyday basis that were derived from astronomical technologies. Perhaps the most commonly used astronomy-derived invention is the wireless local area network (WLAN). In 1977 John O’Sullivan developed a method to sharpen images from a radio telescope. This same method was applied to radio signals in general, specifically to those dedicated to strengthening computer networks, which is now an integral part of all WLAN implementations (Hamaker et al., 1977).
+
+Other technologies important to everyday life that were originally developed for astronomy are listed below (National Research Council, 2010):
+
+X-ray observatory technology is also used in current X-ray luggage belts in airports.
+
+In airports, a gas chromatograph — for separating and analysing compounds — designed for a Mars mission is used to survey baggage for drugs and explosives.
+
+The police use hand-held Chemical Oxygen Demand (COD) photometers — instruments developed by astronomers for measuring light intensity — to check that car windows are transparent, as determined by the law.
+
+A gamma-ray spectrometer originally used to analyse lunar soil is now used as a non-invasive way to probe structural weakening of historical buildings or to look behind fragile mosaics, such as in St. Mark’s Basilica in Venice.
+
+More subtle than these contributions to technology is the contribution that astronomy has made to our view of time. The first calendars were based on the movement of the Moon and even the way that we define a second is due to astronomy. The atomic clock, developed in 1955, was calibrated using astronomical Ephemeris Time — a former standard astronomical timescale adopted by the IAU in 1952. This led to the internationally agreed-upon re-definition of the second (Markowitz et al., 1958).
+
+These are all very tangible examples of the effect astronomy has had on our everyday lives, but astronomy also plays an important role in our culture. There are many books and magazines about astronomy for non-astronomers. A Brief History of Time by Stephen Hawking is a bestseller and has sold over ten million copies (Paris, 2007) and Carl Sagan’s television series, Cosmos: A Personal Voyage, has been watched in over 60 countries by more than 500 million people (NASA, 2009).
+
+Many non-astronomers also engaged with astronomy during the International Year of Astronomy 2009 (IYA2009), the largest education and public outreach event in science. The IYA2009 reached upwards of eight hundred million people, through thousands of activities, in more than 148 countries (IAU, 2010).
+
+Scientific and technological achievements give a large competitive edge to any nation. Nations pride themselves on having the most efficient new technologies and race to achieve new scientific discoveries. But perhaps more important is the way that science can bring nations together, encouraging collaboration and creating a constant flow as researchers travel around the globe to work in international facilities.
+
+Astronomy is particularly well suited to international collaboration due to the need to have telescopes in different places around the world, in order to see the whole sky. At least as far back as 1887 — when astronomers from around the world pooled their telescope images and made the first map of the whole sky — there have been international collaborations in astronomy and in 1920, the International Astronomical Union became the first international scientific union.
+
+In addition to the need to see the sky from different vantage points on Earth, building astronomical observatories on the ground and in space is extremely expensive. Therefore most of the current and planned observatories are owned by several nations. All of these collaborations have thus far been peaceful and successful. Some of the most notable being:
+
+The Atacama Large Millimeter/submillimeter Array (ALMA), an international partnership of Europe, North America and East Asia in cooperation with the Republic of Chile, is the largest astronomical project in existence.
+
+The European Southern Observatory (ESO) which includes 14 European countries and Brazil, and is located in Chile.
+
+Collaborations on major observatories such as the NASA/ESA Hubble Space Telescope between USA and Europe.The American astronomer Carl Sagan showed us one of astronomy’s simplest and most inspirational contributions to society in his book, The Pale Blue Dot:
+
+It has been said that astronomy is a humbling and character-building experience. There is perhaps no better demonstration of the folly of human conceits than this distant image of our tiny world. To me, it underscores our responsibility to deal more kindly with one another, and to preserve and cherish the pale blue dot, the only home we’ve ever known.”

@@ -1,0 +1,39 @@
+Financial analysis, is the process of identifying the financial strength and weakness of the firm by properly establishing, relationships between the items of the balance sheet and profit and loss account. The purpose of financial analysis is, to disclose the information available in the financial statements so as to judge the profitability, and financial health of the organization.
+The first task of the financial analyst is to select the information relevant to the decisions under consideration from the total information available in the financial statement. Secondly, to arrange the information in a way that would highlight the significant relationships.
+Finally, to interpret and draw inferences, and conclusions. In brief, financial analysis, is the process if selection, relation and evaluation of profitability and financial soundness and health of the organization.
+TECHNIQUES OF FINANCIAL STATEMENT
+A financial analyst, analyses the financial statement by selecting the appropriate techniques according to purpose of the analysis. Financial statements may be analyzed by means of any of the following techniques:
+‘ Comparative Statement analysis.
+‘ Common Size Statement analysis.
+‘ Trend analysis.
+‘ Ratio analysis.
+‘ Fund Flow Statement.
+‘ Cash Flow Statement.
+‘ Cost Volume Profit analysis.
+COMPARATIVE ANALYSIS
+Comparative Analysis means, comparison of two or more comparable alternatives, processes, products, qualifications, sets of data’s, systems, etc. In accounting, for example, changes in a financial statement’s items over, several accounting periods could be presented together to detect the emerging trends in the, firm’s operations and results.
+Comparative Analysis is performed by professionals, who prepare reports using financial tools and techniques that make use of information taken from financial statements and the other reports. These reports are usually, presented to top management as one of their base in making business decision.
+These decisions include the following:-
+‘ Continue or discontinue in its main operation or part of its business;
+‘ Make or purchase certain materials, in the manufacture of its product;
+‘ Acquire or rent/lease certain, machineries and equipment in the production of its goods;
+‘ Issue stocks or negotiate for a bank loan, to increase its working capital;
+‘ Make decisions regarding investing and lending capital;
+‘ Other decisions that allow management to make an, informed selection on various alternatives in the conduct of its business.
+Comparative analysis often assesses the firm’s:-
+1. Profitability ‘ Firm’s ability, to earn income and sustain growth in both short-term and long-term. A company’s degree of profitability, is usually based on the income statement, which reports on the company’s results of operations
+2. Solvency ‘ Firm’s ability to pay of its obligation to creditors and third parties in the long term.
+3. Liquidity – its ability to maintain a positive cash flow, while satisfying immediate obligations.
+4. Stability- the firm’s ability is to remain in business in the long run, without having to sustain significant losses, in the conduct of its business. Assessing a company’s stability requires the use of the income statements and the balance sheet, as well as other, financial and non-financial indicators.
+Methods of Comparative Analysis
+Comparative analysts often compare on the basis of following things:
+‘ Past Performance – Across historical time periods, for the same firm (the last 5 years for example),
+‘ Future Performance – Using historical figures and certain, mathematical and statistical techniques, including present and future values, This extrapolation method is the main source, of errors in financial analysis as past statistics can be the poor predictors of future prospects.
+‘ Comparative Performance – Comparison between the similar firms.
+Comparing financial ratios is merely one way of conducting, financial analysis. Financial ratios face several theoretical challenges:
+‘ They say little about the firm’s prospects, in an absolute sense. Their insights about, relative performance, require a reference point from other time periods or any similar firms.
+‘ One ratio, holds little meaning. As indicators, ratios can be logically interpreted in at least two ways. One can be partially overcome this problem by combining several related ratios, to paint a more comprehensive and exact picture of the firm’s performance.
+‘ Seasonal factors, may prevent year-end values from being representative. A ratio’s values may be distorted as the account balances will change from the beginning to the end of an , accounting period. Use average values, for such accounts, whenever it is possible.
+‘ Financial ratios, are no more objective than the accounting methods employed. Changes in accounting policies, or choices can yield drastically different ratio values.
+Financial analysts, can also use percentage analysis which involves reducing a series of the figures as a percentage of some base amounts. For example, a group of items can be expressed, as a percentage of net income. When proportionate changes in the same figure, over a given time period expressed as a percentage is known as horizontal analysis. Vertical or common-size analysis, reduces all items on a statement to a ‘common size’ as a percentage of some base value, which assists in the comparability with other companies of different sizes. As a result, all Income Statement items are divided by Sales, and all the other Balance Sheet items are divided by Total Assets.
+Another method is, comparative analysis. This provides a better way to determine trends. Comparative analysis, presents the same information for two or more time periods and is, presented side-by-side to allow for easy analysis.

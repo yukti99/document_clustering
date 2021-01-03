@@ -1,0 +1,192 @@
+Finance is a broad term that describes activities associated with banking, leverage or debt, credit, capital markets, money, and investments. Basically, finance represents money management and the process of acquiring needed funds. Finance also encompasses the oversight, creation, and study of money, banking, credit, investments, assets, and liabilities that make up financial systems.
+
+
+Many of the basic concepts in finance originate from micro and macroeconomic theories. One of the most fundamental theories is the time value of money, which essentially states that a dollar today is worth more than a dollar in the future.
+Types of Finance
+Since individuals, businesses, and government entities all need funding to operate, the finance field includes three main subcategories: personal finance, corporate finance, and public (government) finance.
+
+
+Personal Finance
+Financial planning involves analyzing the current financial position of individuals to formulate strategies for future needs within financial constraints. Personal finance is specific to every individual's situation and activity; therefore, financial strategies depend largely on the person's earnings, living requirements, goals, and desires.
+
+Individuals must save for retirement, for example, which requires saving or investing enough money during their working lives to fund their long-term plans. This type of financial management decision falls under personal finance.
+
+
+Personal finance includes the purchasing of financial products such as credit cards, insurance, mortgages, and various types of investments. Banking is also considered a component of personal finance since individuals use checking and savings accounts, and online or mobile payment services such as PayPal and Venmo.
+Corporate Finance
+Corporate finance refers to the financial activities related to running a corporation, usually with a division or department set up to oversee those financial activities.
+
+One example of corporate finance: A large company may have to decide whether to raise additional funds through a bond issue or stock offering. Investment banks may advise the firm on such considerations and help them market the securities.
+
+Startups may receive capital from angel investors or venture capitalists in exchange for a percentage of ownership. If a company thrives and decides to go public, it will issue shares on a stock exchange through an initial public offering (IPO) to raise cash.
+
+In other cases, a company might be trying to budget its capital and decide which projects to finance and which to put on hold in order to grow the company. All of these types of decisions fall under corporate finance.
+
+Public Finance
+Public finance includes tax, spending, budgeting, and debt issuance policies that affect how a government pays for the services it provides to the public.
+
+The federal government helps prevent market failure by overseeing the allocation of resources, distribution of income, and economic stability. Regular funding is secured mostly through taxation. Borrowing from banks, insurance companies, and other nations also help finance government spending.
+
+In addition to managing money in day-to-day operations, a government body also has social and fiscal responsibilities. A government is expected to ensure adequate social programs for its tax-paying citizens and to maintain a stable economy so that people can save and their money will be safe.
+
+Financial Services
+Financial services are the processes by which consumers and businesses acquire financial goods. One straightforward example is the financial service offered by a payment system provider when it accepts and transfers funds between payers and recipients. This includes accounts settled via checks, credit and debit cards, or electronic funds transfer.
+The financial services sector is one of the most important segments of the economy. It drives a nation's economy, providing the free flow of capital and liquidity in the marketplace. It is made up of a variety of financial firms, including banks, investment houses, finance companies, insurance companies, lenders, accounting services, and real estate brokers.
+
+When this sector and a country's economy are strong, it boosts consumer confidence and purchasing power. When the financial services sector fails, it can drag down the economy and lead to a recession.
+Financial activities are the initiatives and transactions that businesses, governments, and individuals undertake as they seek to further their economic goals. They are activities that involve the inflow or outflow of money. Examples include buying and selling products (or assets), issuing stocks, initiating loans, and maintaining accounts.
+
+When a company sells shares and makes debt repayments, these are both financial activities. Similarly, individuals and governments are involved in financial activities, such as taking out loans and levying taxes, which further specific monetary objectives.
+From an accounting point of view, there are two kinds of goods. Real economic goods
+are on the asset side of one single balance sheet, while financial goods appear in two
+balance sheets simultaneously: on the asset side of one balance sheet and on the liabilityequity side of another one. A slice of bread or a bicycle are real economic goods; a
+mortgage loan, a commercial bill or a share are financial goods.
+Financial goods on the liability-equity side are obligations, while those on the asset side
+are claims. A commercial bill with the nominal value of 500 EUR is a claim to its owner
+and an obligation for its issuer. The issuer is legally bound to pay 500 EUR when the bill
+matures. In case of default - i.e. if the issuer is not able or not willing to pay -, the owner
+of the bill can sue the issuer.
+Shares might be regarded as financial assets too, although in this case the issuer is not
+legally bound to pay any money. Shares are rather economic than legal promises to pay
+dividends or provide capital gains through the appreciation of their price. Disappointed
+owners - in case of no dividend payments and no price increase - can punish the issuer
+company on the market by selling the shares. What happens if investors start selling the
+shares of some company en masse? The price of the shares plummets which leads to the
+simultaneous devaluation of the assets of the company. (Remember, the value of the
+assets always has to be equal to the summed value of the liabilities and the equity. A
+price drop of shares devalues equity and assets simultaneously.) As assets are collateral
+behind the liabilities, a significant drop in their value can lead to financial difficulties. 
+In a monetised economy, debt is easy to measure and administer with the help of money,
+by which the two sides of a transaction (service and payment) can be separated in time.
+Expressing debts in monetary terms leads to more efficient economic, social and legal
+procedures. For example, economic agents do not need to pay taxes by sacrificing their
+labour and working for the state anymore. The state can collect taxes paid in money, and
+then pay for a competent workforce to execute special jobs. (Without money, some John
+has to work on state-owned farms or must serve as a soldier. The problem is that being
+an excellent wool-manufacturer, John knows nothing about agriculture or warfare. If
+instead, he pays taxes in money, skilled farmers and soldiers can be hired.) Another
+example from the field of jurisdiction: in a society without money, a culprit always has to
+be imprisoned, executed or sentenced to penal servitude. However, with money, in a lot
+of cases, the sinner can literally pay for his sins.
+Money as a store of value secures future both in the short- and in the long-run. Between
+two exchanges, the purchasing power can rest in money, which creates the possibility of
+intertemporal optimisation. The store of value and the standard of deferred payments
+functions are closely connected. Surplus agents (those who spent less in a period than
+they earned) can finance deficit agents. The claim of surplus agents serves as the store of
+their postponed consumption, while the debt of deficit agents is the price of their
+impatience for which they will pay later.
+Money measures the value of goods, services, wealth, debt, etc., which makes these
+things comparable. With money usage, a price can be assigned not only to exchangeable
+products but even to unmarketable stuff like works of art, clear environment or life. It is
+needless to say that the measure of value and the means of exchange functions are hand
+in hand with each other - exchanges are based on the knowledge of prices expressed in
+monetary units.
+The transition from redistributive societies to market economies had been a long process,
+during which not only goods but labour and capital also became the subjects of
+exchange. This evolution was accompanied by different mutations in the monetary
+system. Financial innovations were partially forced by the requirements of growing
+markets, as money supply had to keep pace with economic development. On the other
+hand, the interests of the state (and not necessarily those of the public…) lead to notable
+alterations of money and monetary institutions as well. In the next section, we will
+examine the most important changes through the lenses of an accountant, i.e. we will
+intensively use the techniques familiarised in the first chapter of this book. However, the
+essence of the following is not the bookkeeping but the theoretical and practical
+understanding of how modern monetary systems have evolved and are operating today.
+N N = 100
+	 	 8
+2.2 Production of money and creation of money
+This tour begins with an imagined world where gold coins fulfil the functions of money.
+Gold coins are minted by the Royal Mint from raw gold extracted from mines or panned
+from rivers. Miners are obliged by law to surrender their gold to the Mint who issues
+stamped gold currency after the coinage. Coins are legal tender in the economy which
+means that producers, merchants, shop owners, etc., must accept them in exchange for
+their goods. On the other side, buyers are also obliged by the legal tender law to use
+coins as a medium of exchange. However, upon mutual agreements, parties are allowed
+to use alternative settlements in a given business situation. Summing up: if the buyer
+wants to pay with gold coins the seller must accept them; if the seller wants to be paid in
+gold coins the buyer must adapt; if they both agree they can use different methods. 
+In order to gain some profit in their business, depository institutions started to lend out
+money. Shortly after the introduction of this new activity, managers observed a very
+interesting phenomenon: the bulk of borrowers, immediately after signing the contract,
+without even leaving the building, deposited their borrowed coins, i.e. they changed their
+gold coins for promissory notes. This seemingly weird act is quite understandable:
+debtors needed purchasing power, they wanted to buy something on the market, and for
+practical reasons, by that time notes have become more popular than coins. Promissory
+notes substituted gold coins perfectly in their functions of payment and medium of
+exchange, besides, their physical characteristics, such as weight and portability made
+them easier to use than coins. As a consequence of this observation, managers made an
+efficiency modification to the lending business: by signing the credit-contract, borrowers
+received promissory notes directly. Of course, anyone could redeem the notes into coins,
+but only the minority of costumers did so.
+The introduction of lending leads to many changes. First of all, lenders are not only
+depository institutions anymore, we can call them banks henceforth. Second, lending
+increases the quantity of money circulating in the economy, which could solve the
+problem of relative money shortage. On the microeconomic (institutional) level, more
+complex managing skills are needed. Before starting to lend out money, the convertibility
+of the total amount of the notes was technically secured, as the amount of gold coins on
+the depositories’ asset side equalled the amount of notes amongst their liabilities.
+Lending creates new liabilities (new notes) that are backed by the promise of repayment.
+As there is no difference between notes originating from depositing coins, and those
+created by lending, the whole quantity of promissory notes are now partially backed by
+gold coin reserves of banks, and partially by loans they granted. Reserves are generally
+the highest forms of money or ultimate liquidity, for which economic agents can convert
+their claims on the members of the banking system.
+Assuming that all debts will be repaid, only a liquidity problem prevails: in the short run,
+the convertibility of notes is constrained by the level of reserves. However, there are
+always some debtors who default on their debt, which can lead to solvency problems in
+the long run. To minimise the probability of failing to keep the promise of convertibility,
+banks must properly examine their debtors’ financial status, and price the loans
+accordingly. 
+Banks can help this problem by either accepting commercial bills or buying them by
+issuing their own bills. The two cases differ only technically, as in the first case the bank
+merely signs or stamps the commercial bill (this is the “bank’s acceptance”), which
+guarantees payment if the issuer defaults, while in the second case, the bank writes its
+own IOU and swaps the commercial bill for it. However, the two cases are essentially the
+same: the bank takes the credit risk of the issuer on its own balance sheet, replacing it
+with its own credit risk, which is, of course, significantly lower than the original issuer’s.
+It is even better if the bank buys the commercial bill by paying out gold coins or by
+issuing promissory notes. The former can be ruled out on the grounds discussed before:
+the seller of the bill will convert coins into notes immediately for practical reasons. The
+difference between the nominal value of the commercial bill and the discounted amount
+paid for it generates profit for the bank. 
+Despite its powerful means, such as taxing private agents, determining monopoly rights
+over mine-products, or debasing the currency to raise revenues, the state has been the
+biggest debtor of the economy for a long time. Sometimes violent or innovative solutions
+were needed to successfully manage high levels of budget deficit or debt. Before the
+modern era of market-based economies, kings and queens frequently went into war
+against their creditors or executed them as the most efficient way of decreasing debt.
+These ancient methods of debt management, however, faded away over time. (For further
+exciting features of sovereign defaults, see Vidovics-Dancs (2014).) If debt neither can be
+repaid nor served in some other way, a bank is needed who willingly grants a new loan
+upon the maturity of the old one.
+The financial affairs of our imagined world gave new ideas to the experts of the crown,
+which eventually led to the profound transformation of the monetary system. The state
+convinced some wealthy businessmen to found a new bank (henceforth: the central bank)
+and lend the raised capital to the state. In exchange, the state endowed this new bank
+with the right to issue legal tender in the form of banknotes. Banknotes are the liabilities
+of the central bank.
+The significance of this change is worth to emphasise. Before the founding of the central
+bank, gold coins and promissory notes issued by different banks were circulating in the
+economy, but only the coins were legal tender. The acceptance of the notes issued by
+any bank depended on trust, i.e. on the belief that the bank is ready and able to convert
+them into coins. The acceptance of the central bank’s banknotes is, however, forced by
+the law, which makes these notes and the coins equivalent. Banknotes are called fiat
+money because they do not have intrinsic value end yet must be accepted by the rules of
+the state. Fiat money can be distinguished from fiduciary money, that does not have
+intrinsic value either, but its acceptance depends on trust and not on power (Mises,
+1912).
+Besides the power of the law, economic incentives were introduced to create demand for
+the new currency. First, the crown and the central bank promised to convert banknotes
+into gold coins on demand. Second, the state made it possible to pay taxes with
+banknotes. Two schools of thoughts are connected to these incentives: Metallists think
+that money is valuable as long as it has gold (or silver, or copper, etc.) content or it is
+convertible to gold at a fixed rate; Chartallists think that the power of the state gives value
+to the money: if it is not only possible but obligatory to pay taxes in banknotes, then it
+creates demand for the new currency (for details, see Bell, 2001).
+The perceptive reader can observe the sentence “I promise to pay the Bearer on Demand
+the sum of Ten shillings.” on the English 10 shilling banknote (Figure 9). Once it meant the
+	 	 18
+mutual guarantee of the Queen / King and the Governor of the Bank of England to
+redeem this note at sight to 10 shillings worth of gold. The nature of this promise has
+changed over time: today it means that the State and the Central Bank guarantee to
+safeguard the purchasing power of money.

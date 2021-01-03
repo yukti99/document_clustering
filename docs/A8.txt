@@ -1,0 +1,203 @@
+Telescope System Instrumentation Program. Universities and independent
+observatories operate the majority of the large optical and infrared.
+telescopes in the United States. The top priority for moderate projects for
+the new decade is TSIP, an NSF program that will maximize the scientific
+effectiveness of these telescopes by instrumenting them and by making
+them accessible to the entire astronomical community. It will have a
+multiplier effect by encouraging the continuation of substantial
+nonfederal investments, while at the same time helping to bring the
+national and private observatories together as a coherent research
+system. Under this initiative, the NSF would fund the construction of
+peer-reviewed new instrumentation at private observatories in exchange
+for telescope time or other equally valuable benefits for the community at
+large. The value of the observing time (determined from the cost of
+operations and the amortized investment) should be 50 percent of the
+granted funds.
+Gamma-ray Large Area Space Telescope. GLAST, the second priority for
+moderate projects, is a powerful gamma-ray telescope with a sensitivity
+30 times greater than that of its predecessor, the Energetic Gamma Ray
+Experiment (EGRET) instrument on the Compton Gamma Ray Observatory. GLAST will study powerful jets from the supermassive black holes
+in the centers of distant galaxies, the acceleration mechanisms of cosmic
+rays, and the origin of tremendous bursts of gamma-ray radiation from
+the distant universe. GLAST has the potential for breakthrough discoveries, such as by observing gamma rays from dark matter annihilation. It
+will detect gamma rays in the photon energy range between 10 MeV and
+300 GeV with unprecedented positional accuracy. The committee
+applauds the crucial technical contributions of DOE to this important
+NASA mission.
+Laser Interferometer Space Antenna. LISA is unique among the recommended new initiatives in that it is designed to detect the gravitational
+radiation predicted by Einstein’s theory of general relativity. The direct
+measurement of gravitational radiation from astrophysical sources will
+open a new window onto the universe and enable investigations of the
+physics of strong gravitational fields. LISA consists of three spacecraft
+spaced 5 million km apart in an equilateral triangle, with lasers accurately
+monitoring their separation. It will be sensitive to gravitational-wave
+frequencies between 10–1 to 10–4 Hz, frequencies too low to be detected
+by the ground-based LIGO. For the first time, it will be possible to
+observe evidence of the coalescence of supermassive black holes as
+distant galaxies merge, and the gravitational radiation from white dwarf
+binaries in our own galaxy. It is assumed that LISA will be a joint mission
+between NASA and ESA, with costs shared approximately equally.
+Advanced Solar Telescope. AST will observe solar plasma processes and
+magnetic fields with unprecedented resolution in space and time. It will
+provide critical information needed to solve the mysteries associated with
+the generation, structure, and dynamics of the surface magnetic fields,
+which govern the solar wind, solar flares, and short-term solar variability.
+AST is a ground-based, 4-m-class, adaptive-optics-equipped facility that
+will operate in the wavelength band from 0.3 to 35 µm. It is proposed as
+a joint project with international partners, in which the United States
+would provide about half the costs.
+Square Kilometer Array Technology Development. The SKA is an international ground-based centimeter-wave radio telescope array with
+106
+ square meters of collecting area that will enable study of the first
+structures and the first luminous objects to form during the dawn of the
+modern universe, and will provide unprecedented images of protostellar
+disks and the neutral jets launched by young stars. SKA’s sensitivity will
+be a factor of 100 greater than that of existing centimeter-wave facilities.
+The increase in sensitivity has great discovery potential, and SKA will
+revolutionize the study of objects and phenomena that are currently
+undetectable at centimeter wavelengths. The U.S. SKA development
+program will, in collaboration with the international radio astronomy
+community, aggressively pursue technology and technique development
+in this decade that will enable the construction of the SKA in the following decade.
+Solar Dynamics Observatory. SDO will probe the outer layers of the Sun
+to determine the connections between the interior dynamics and the
+activity of the solar corona, the origin of sunspots and solar active regions, and the origin of coronal mass ejections and solar flares. SDO is a
+space-based mission that will carry a number of instruments and small
+telescopes to monitor the Sun continuously at ultraviolet and optical
+wavelengths (0.02 to 1 µm).
+Combined Array for Research in Millimeter-wave Astronomy. CARMA is
+the planned combination of the Berkeley-Illinois-Maryland Association
+(BIMA) and the Owens Valley Radio Observatory (OVRO) millimeterwave arrays at a superior site along with the addition of new, smaller
+antennas. The resulting hybrid array will have unique imaging qualities,
+sensitive to both small and large scales. It will study star formation at all
+epochs, and it will measure the small distortions in the cosmic (Big Bang)
+microwave background caused by the hot gas in distant clusters of
+galaxies along the line of sight. Its Northern Hemisphere location will
+provide sky coverage complementary to ALMA. Of the construction
+costs, 60 percent will come from nonfederal sources.
+Energetic X-ray Imaging Survey Telescope. EXIST will survey the entire sky
+every 90 minutes to search for weak and often time-variable astronomical sources of 5- to 600-keV x-ray photons. Such x rays emanate from
+many sources, including supermassive black holes in the centers of
+galaxies, stellar mass black holes, neutron stars, and embedded supernovae in our galaxy, and the mysterious distant sources of gamma-ray bursts
+of radiation. Attached to the International Space Station, EXIST will
+survey sources 1,000 times weaker than the sources in the previous hard
+x-ray survey by the High Energy Astronomical Observatory (HEAO-1).
+EXIST’s repeated surveys of the entire sky in the hard x-ray region will
+complement those by LSST at optical wavelengths.
+Very Energetic Radiation Imaging Telescope Array System. VERITAS will
+perform the first sensitive sky survey for astronomical sources of extremely energetic photons—those with energies from 100 to 10,000 GeV.
+VERITAS will complement GLAST and EXIST in studying the cosmic
+sources of relativistic particles such as supermassive black holes, gammaray burst sources, pulsars, and supernova remnants. Making use of the
+established technology of the 10-m reflector at the Whipple Observatory,
+VERITAS consists of an array of seven 10-m-diameter reflectors that will
+achieve more than an order-of-magnitude improvement in sensitivity and
+have a far greater ability than existing instruments to locate sources.
+Advanced Radio Interferometry between Space and Earth. ARISE is a
+sensitive, Earth-orbiting radio antenna with a diameter of about 25 m
+that will improve the angular resolution of the ground-based Very Long
+Baseline Array by a factor 6. It will probe the regions near supermassive
+black holes, which are thought to produce relativistic jets, and will enable
+the study of maser sources, both in the Milky Way and in the nuclei of
+other galaxies.
+Frequency Agile Solar Radio Telescope. Radio waves from the Sun bring
+information about the heating of the corona, the nature and evolution of
+coronal magnetic fields, the structure of the solar atmosphere, and the
+origin of the solar wind. FASR will analyze this radiation over a frequency range from 0.3 to 30 GHz, and it will improve on existing facilities
+by operating at hundreds of frequencies and providing a factor-of-10
+better spatial resolution.
+South Pole Submillimeter-wave Telescope. The SPST will take advantage
+of the superb atmospheric transmission conditions between wavelengths
+of 200 µm and 1 mm at the South Pole to survey the dusty universe, study
+small variations in the background radiation emanating from the early
+pregalactic universe, and identify primordial galaxies.
+Other Projects
+Two areas in which the committee considered it premature to set
+priorities are cosmic microwave background experiments and particle
+astrophysics. In both disciplines, projects are often experiments rather
+than observatories. As a result, it is difficult to plan far in advance, since
+the best strategy may depend critically on the outcome of ongoing
+experiments.
+Observations of the cosmic microwave background can determine
+the large-scale properties of the universe and reveal the tiny fluctuations
+that were the seeds of all the structure we see today. These observations
+are of fundamental importance to both astronomy and physics. Together
+with ground-based and balloon experiments, NASA’s MAP mission, to be
+launched in spring 2001, will revolutionize knowledge of the microwave
+background, and the committee believes that no decision on the next
+major or moderate microwave background project should be made until
+the results from that mission are available. ESA’s Planck mission later in
+the decade will also provide important information, but it will be possible
+to decide on the next step before its results are available. Together, MAP
+and Planck will test the most promising ideas about the very early universe as well as determine cosmological parameters to high precision.
+The next frontier is to measure the polarization of the cosmic microwave
+background, which has the potential of probing even earlier times, close
+to the Big Bang itself.
+Particle astrophysicists view the universe through different eyes than
+do most astronomers: Instead of photons, they observe energetic particles, and they search for exotic new particles that could account for the
+dark matter. The committee decided that it was too early to prioritize the
+Northern Hemisphere Auger project or Telescope Array for ultrahighenergy cosmic rays and the Ice Cube experiment for high-energy neutrinos. In each case, ongoing experiments—the Southern Hemisphere
+Pierre Auger Observatory project and the Antarctic Muon and Neutrino
+Detector Array (AMANDA) experiment at the South Pole—will provide
+critical information that will enable an informed decision to be made
+soon. The decision on how to pursue future searches for dark matter will
+be guided by the outcome of experiments now just starting.
+Small Initiatives
+National Virtual Observatory. The NVO is the committee’s top-priority
+small initiative. NVO involves the integration of all major astronomical
+data archives into a digital database stored on a network of computers,
+the provision of advanced data exploration services for the astronomical
+community, and the development of data standards and tools for data
+mining. It will create a powerful resource for public education and
+outreach by making near-real-time observations accessible over the
+Internet. NVO will enable professional astronomers, educators, and the
+public to take full advantage of the wealth of data from existing and
+planned surveys such as LSST. NVO is made possible by huge advances
+in the past decade in computer speed, widespread access to high-speed
+networks, a dramatic decrease in the cost of computing and data storage
+capabilities, and an ongoing revolution in techniques to extract science
+from a large data set. The committee recommends coordinated support
+from both NASA and the NSF, since NVO will serve both the space- and
+ground-based science communities.
+Additional Small Intiatives. The remaining recommendations for small
+initiatives are listed alphabetically and are not prioritized, but they
+represent a number of exciting opportunities for making a relatively small
+investment to potentially achieve a major gain in capability and scientific
+return. Several of these opportunities span both space- and groundbased astronomy, like NVO. To facilitate the interpretation of the
+tremendous harvest of data throughout the decade, the committee
+recommends (1) augmentation of NASA’s Astrophysics Theory Program
+and (2) initiation of a NASA- and NSF-funded National Astrophysical
+Theory Postdoctoral Program that would award 10 portable 3-year
+postdoctoral positions each year. In view of the tremendous increase in
+the volume and complexity of the spectroscopic data to be gathered
+across the electromagnetic spectrum by new facilities over the course of
+the decade, the committee recommends the establishment of a Laboratory Astrophysics Program funded by both NASA and the NSF. The
+Ultralong-Duration Balloon (ULDB) program offers the prospect of
+carrying payloads that weigh several tons to roughly 40-km altitudes for
+flights that last several months. For certain types of experiments, this
+program offers an alternative to small space experiments at a fraction of
+their cost. The committee recommends an augmentation of the ULDB
+program for the development of a steering capability that would increase
+both the duration and the probability of success of the balloon flights.
+The Advanced Cosmic-ray Composition Experiment for the Space Station
+(ACCESS) will measure the spectrum and composition of cosmic rays
+with energies up to 1,000 TeV. This experiment will provide unique data
+for studying the origin of cosmic rays and the mechanism by which they
+are accelerated. The Low Frequency Array (LOFAR), a joint project
+now under way between the Netherlands Foundation for Research in
+Astronomy and the U.S. Naval Research Laboratory, provides a 100- to
+1,000-fold improvement in sensitivity and resolution over existing radio
+telescopes in the wavelength range from 2 to 20 m. It has the potential
+to discover the hydrogen clouds out of which the first galaxies formed.
+The committee recommends that the NSF contribute to LOFAR so that it
+will be available to the entire astronomical community. Expansion of the
+Synoptic Optical Long-term Investigation of the Sun (SOLIS) from one
+station to a three-station network would permit continuous, 24-hour
+monitoring of magnetic fields on the solar surface. An expanded SOLIS
+promises crucial data for understanding the magnetic origin of solar
+variability and a far greater capability to forecast the space weather that
+so adversely affects space satellites.
+technology
+Technological innovation has often enabled astronomical discovery.
+Most of the major discoveries listed at the beginning of this chapter were
+possible only because of the remarkable advances in technology in the
+past two decades. 

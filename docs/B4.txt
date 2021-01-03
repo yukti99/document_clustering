@@ -1,0 +1,20 @@
+Biochemistry is the branch of science that explores the chemical processes within and related to living organisms. It is a laboratory based science that brings together biology and chemistry. By using chemical knowledge and techniques, biochemists can understand and solve biological problems.
+
+Biochemistry focuses on processes happening at a molecular level. It focuses on what’s happening inside our cells, studying components like proteins, lipids and organelles. It also looks at how cells communicate with each other, for example during growth or fighting illness. Biochemists need to understand how the structure of a molecule relates to its function, allowing them to predict how molecules will interact.
+
+Biochemistry covers a range of scientific disciplines, including genetics, microbiology, forensics, plant science and medicine. Because of its breadth, biochemistry is very important and advances in this field of science over the past 100 years have been staggering. It’s a very exciting time to be part of this fascinating area of study.
+Biochemists work in many places, including:
+Hospitals
+Universities
+Agriculture
+Food institutes
+Education
+Cosmetics
+Forensic crime research
+Drug discovery and development
+Researchers in biochemistry use specific techniques native to biochemistry, but increasingly combine these with techniques and ideas developed in the fields of genetics, molecular biology, and biophysics. There is not a defined line between these disciplines. Biochemistry studies the chemistry required for biological activity of molecules, molecular biology studies their biological activity, genetics studies their heredity, which happens to be carried by their genome. This is shown in the following schematic that depicts one possible view of the relationships between the fields:
+
+Biochemistry is the study of the chemical substances and vital processes occurring in live organisms. Biochemists focus heavily on the role, function, and structure of biomolecules. The study of the chemistry behind biological processes and the synthesis of biologically active molecules are examples of biochemistry.. Biochemistry studies life at the atomic and molecular level.
+Genetics is the study of the effect of genetic differences in organisms. This can often be inferred by the absence of a normal component (e.g. one gene). The study of "mutants" – organisms that lack one or more functional components with respect to the so-called "wild type" or normal phenotype. Genetic interactions (epistasis) can often confound simple interpretations of such "knockout" studies.
+Molecular biology is the study of molecular underpinnings of the processes of replication, transcription, translation, and cell function. The central dogma of molecular biology where genetic material is transcribed into RNA and then translated into protein, despite being oversimplified, still provides a good starting point for understanding the field. The picture has been revised in light of emerging novel roles for RNA. Molecular Biology studies life at the molecular and cellular level
+'Chemical biology' seeks to develop new tools based on small molecules that allow minimal perturbation of biological systems while providing detailed information about their function. Further, chemical biology employs biological systems to create non-natural hybrids between biomolecules and synthetic devices (for example emptied viral capsids that can deliver gene therapy or drug molecules).

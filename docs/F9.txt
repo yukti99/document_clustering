@@ -1,0 +1,434 @@
+there are companies with shareholders, and banks and stock exchanges; and there are still plenty of
+lawyers and bankers who help to transfer money from one
+pocket to another so that companies can raise the finance they
+need and business may be done. But the way the money is
+raised and the speed with which it is done have changed virtually beyond recognition. Thirty years ago, banks were still the
+main source of finance for most big companies, especially in
+Japan and continental Europe.
+Today, for the most part, banks play second fiddle to the
+equity and bond markets for big companies; even in Germany
+and Japan, the part played by banks has diminished. Equity and
+bond markets have become more international and have extended their influence in ways that would have been unimaginable 30 years ago.
+Compared with their counterparts of even a decade ago,
+today’s financial institutions are not only more diverse, both
+geographically and in terms of their businesses, they are also
+better capitalised. In 1990, the biggest financial firms were commercial banks, most of them Japanese, whose main function
+was the taking of deposits and the making of loans. At that time,
+banks in continental Europe were typically engaged in a
+broader range of activities than their US counterparts which,
+under the Glass-Steagall Act, since repealed, had to choose
+between commercial banking, investment banking and specialist financial services such as insurance.
+Nowadays, by far the largest firms are financial-services conglomerates. These combine commercial banking with a range of
+other financial services, such as underwriting bond and equity
+issues and advising on mergers and acquisitions. They also
+provide consumer finance and sell on loans to other investors,
+for example, by arranging syndicates, buying and selling derivatives, and issuing securities backed by mortgages, credit-card receivables and the like. In 1990, the list of the top 15 financial
+1
+01 Essential Finance 10/11/06 2:21 PM Page 1
+firms by market capitalisation (as compiled by Morgan Stanley
+Capital International) was dominated by Japanese banks, the
+largest of which had a stockmarket capitalisation of $57 billion.
+A decade later, partly because of a spate of mergers among such
+firms, international financial-services groups took up most of
+the places; and the biggest (Citigroup) was then capitalised at
+more than $250 billion.
+The sheer size of the conglomerates has undoubtedly helped
+them to withstand the shocks that have beset the banking
+system since the dotcom boom turned to bust and stockmarkets
+began to slide. Between 1998 and 2001, according to the Federal
+Reserve, America’s central bank, telecommunications firms
+worldwide alone borrowed around $1 trillion. Many of these
+loans have since had to be written off because their borrowers
+went bankrupt. In quick succession in the United States, Enron,
+WorldCom, Global Crossing and others collapsed. Yet in
+contrast to previous setbacks following similar bouts of
+overexuberance and overinvestment, banks were able to continue lending to companies that needed money. The growth of
+sophisticated debt markets also helped to reduce companies’ reliance on bank credit and equity to finance their operations. As
+a result, the US economy in particular was able to maintain a
+faster pace of growth than many had feared.
+That J.P. Morgan Chase was able to absorb the billions of
+dollars in losses that resulted from the collapse at the end of
+2001 of Enron, an energy-trading company, speaks volumes not
+just about the size of J.P. Morgan Chase’s balance sheet, but also
+about its ability to spread the risk by selling derivatives to other
+investors. In the 1980s, a loss on the scale of Enron, then one of
+the world’s biggest companies, might have toppled Texas’s
+banking system. In the event, Texas was spared by the deregulation of state banking laws that subsequently took place, which
+allowed J.P. Morgan Chase (itself an amalgam of two big
+banking groups) to buy Texas Commerce Bank, one of Enron’s
+biggest lenders.
+It is true that banks have successfully shifted a large proportion of their risk on to others, and this has helped them to withstand a welter of shocks internationally. But are banks really as
+adept at diversifying this risk as they like to think? Are those to
+2 ESSENTIAL FINANCE
+01 Essential Finance 10/11/06 2:21 PM Page 2
+whom they are passing the risk capable of managing it, particularly if markets remain volatile? In short, could the shift from a
+system reliant on banks to one based largely on markets contain
+dangers of its own?
+Insurers at risk
+One worry is that insurance companies – not always the most
+sophisticated of investors – have taken on part of the risk that
+banks and other intermediaries in the financial markets are
+shedding. Swiss Re and Munich Re, two of the world’s biggest
+insurers, between them account for a large proportion of credit
+derivatives outstanding. Credit derivatives are securities that
+allow banks to pass on to other investors the risk that some of
+their borrowers will default. Insurance companies have also
+been big buyers of asset-backed securities, financial instruments
+backed by pools of loans and other forms of debt. If insurance
+companies were unable to meet their liabilities and went bust,
+there is a danger that the problems would rebound on the
+banks.
+Another worry is that, with fewer and larger international
+banks, the pressure to succeed on even the best-managed banks
+may reach a point where they make mistakes on a colossal
+scale. Consolidation also brings dangers of its own. Take the
+foreign-exchange markets. In 1995, 20 banks in the United States
+accounted for 75% of foreign exchange traded; six years later,
+the number was down to 13. Liquidity, argue some, is a function
+not just of the size of the market but also of the diversity of
+opinion of those trading within it. Moreover, financial institutions increasingly use the same models for assessing and managing risk. So when one decides to move, generally they all
+move. As the deals become bigger and the stakes higher, observers worry that a sudden loss of liquidity or a shock on the
+scale of the terrorist attacks of September 11th 2001 could cause
+a black hole to open up. If it does, the risk is that even sound
+companies could be sucked into it.
+There have already been a few close calls. From 1997,
+commercial banks have been permitted to use so-called valueat-risk (var) models to calculate the amount of capital they are
+THE CHANGING FACE OF MARKETS 3
+01 Essential Finance 10/11/06 2:21 PM Page 3
+required to hold under the Basel rules on liquidity, so-called
+because they were devised by the Bank for International Settlements, which has its headquarters in Basel. Drawn up by the
+Basel Committee on Banking Supervision, a body that includes
+representatives from the world’s main central banks, the new
+rules were designed to make banks more sensitive to market
+risk while at the same time giving them greater flexibility in
+running their businesses.
+The new system did not have to wait long for its first test. In
+1998, the financial markets were jolted first by Russia’s decision
+to default on its external debt, and then by the near collapse of
+Long Term Capital Management (ltcm), a US hedge fund
+which included two Nobel Prize winners among its directors as
+well as heavyweights on Wall Street. Hedge funds are largely
+unregulated investment funds that take big (and risky) positions
+in the financial markets, often on exchange or interest rates. In
+this case, ltcm bet wrongly that the prices of certain securities
+would move closer together; instead, they drifted apart. Required to put up more money by the institutions with which it
+had contracts, the fund became overstretched and eventually
+had to be bailed out by a group of banks gathered together by
+the Federal Reserve.
+Some observers fret that regulations based on var models
+contribute to the volatility of financial markets by leading to a
+vicious circle, in which traders are forced to reduce their positions in the market in order to put up fresh money, which puts
+renewed pressure on prices, and so on. In other words, the var
+rules make an old problem worse by forcing participants to get
+out of the market when they can least afford to, and by forcing
+banks to reduce their lending when borrowers most need it.
+Two recent studies suggest that these fears may be exaggerated. The first, by Philippe Jorion, a professor of finance at the
+University of California, found that financial markets have
+been no more volatile since the introduction of derivatives.
+Moreover, says Jorion, var rules should not be viewed as a
+panacea for market ills. “They provide no guarantee that market
+losses will not occur,” he says. Indeed, there is evidence that, far
+from exacerbating a fall in prices, derivatives help to stabilise
+markets by spreading risk. The second study, by Alain Chaboud
+4 ESSENTIAL FINANCE
+01 Essential Finance 10/11/06 2:21 PM Page 4
+and Steven Weinberg of the US Federal Reserve, looked at the
+foreign-exchange markets. It found no evidence that electronic
+trading and the growing use of derivatives had made the
+markets more volatile, or that liquidity had been drained away
+from them because of the growing use of electronic trading. So
+far, so good. The study did concede, however, that the use of
+trading platforms that connect the ultimate customer more directly with the dealer in foreign exchange, reducing still further
+the role of intermediaries, may bring more volatility.
+If so, the stakes are high. Until the Bretton Woods agreement,
+a post-war attempt to stabilise international finance, was dismantled in the early 1970s, fixed exchange rates were the norm.
+Today it is hard to think of a developed country that does not
+allow its exchange rate to float or, as with the euro, is linked to
+one that does. At the touch of a keypad, trillions of dollarsworth of foreign currencies routinely change hands every day,
+much of it in the form of obligations traded as derivatives.
+Thirty years ago, markets of this size and scope would have
+been unimaginable. In the days of fixed exchange rates, the
+market for foreign exchange was a servant of trade, easing the
+exchange of goods across borders. Today, as services become
+more important in international trade, the value of foreign currencies changing hands each day far exceeds the value of the
+goods being shipped from producer to user.
+The first truly electronic services for dealing in foreign exchange were launched by Reuters in the early 1980s. The first
+systems allowed brokers to communicate directly, but did not
+simultaneously match different counterparties, as had been
+done over the telephone. That came in the early 1990s, when
+Reuters launched a version which automatically matched buy
+and sell orders from anonymous dealers. Nowadays, dealers exchange over $4 trillion-worth of foreign currency a day, the bulk
+of it over two electronic systems. One concentrates on transactions in dollars and Japanese yen, the other on sterling, the euro
+and the currencies of emerging markets.
+International equity
+Stockmarkets have also been undergoing dramatic change, most
+THE CHANGING FACE OF MARKETS 5
+01 Essential Finance 10/11/06 2:21 PM Page 5
+of which has involved becoming more international. In 1999, at
+least one out of every six deals done on stockmarkets involved
+a foreign buyer or seller – a far cry from the situation not much
+more than a decade ago. In the mid-1980s, Salomon Brothers, an
+investment bank, estimated that 99% of the world’s trading in
+equities was done on the exchange where the shares had their
+primary listing. Of course, a proportion of those who bought
+and sold shares then were foreign investors, but the number has
+since grown substantially.
+The New York Stock Exchange (nyse), still the world’s
+biggest, led the way towards a more international world. It did
+this through the introduction of American Depositary Receipts
+(adrs), which enabled domestic investors to buy the shares of
+foreign companies with US dollars, and later by attracting a
+growing number of foreign companies to list their shares on the
+exchange. But the prize for internationalism must go to the
+London Stock Exchange. According to figures compiled by the
+World Federation of Exchanges, London accounted for more
+than half of the worldwide trade in foreign equities in 2002,
+compared with a combined share of 25% for the nyse and
+nasdaq, America’s main exchange for trading in the shares of
+technology companies.
+London is also the international centre for another market
+that has mushroomed over the years: the derivatives market.
+Derivatives are financial instruments that are “derived” from
+another, for example, an option to buy a Treasury bond. The
+value of the option depends on the performance of the underlying instrument, in this case a Treasury bond. This can be
+taken a stage further: for example, an option on a futures contract. The value of the option depends on the price of the
+futures contract, which, in turn, will vary with the value of the
+underlying instrument.
+Although the term derivative was little used until the 1980s,
+the practice of trading forward (which is what a derivative
+does) to mitigate the effects of risk has been a part of dealing in
+physical commodities for centuries. It has been claimed that
+forward trading began in Roman times, that Japanese rice
+traders first exchanged contracts for future delivery in the 17th
+century and that its origins can be traced back to Amsterdam
+6 ESSENTIAL FINANCE
+01 Essential Finance 10/11/06 2:21 PM Page 6
+and London’s Royal Exchange a century earlier. Whatever the
+truth, it is beyond dispute that, in 1865, the Chicago Board of
+Trade shaped the first grain futures contract. Thirteen years
+later, the London Metal Exchange and the London Corn Trade
+Association followed with their own futures contracts. Such
+contracts were developed to protect traders from unknown but
+expected risks in the future: in the case of grain, the vagaries of
+the weather and an uncertain transport system.
+During the past decade or so, the growth of trading in derivatives on organised exchanges has been brisk. Fastest growing
+have been derivatives of financial instruments tied to currencies
+and exchange rates, interest rates and equities. Since 1995 alone,
+the number of contracts of this kind traded on exchanges worldwide has increased two and a half times. Despite increases in
+other markets, particularly in South Korea, US exchanges still
+account for the lion’s share of the business, around 35% of all
+contracts traded. Together, European exchanges are not far
+behind. 
+Yet even growth on this scale is dwarfed by the speed with
+which trading of financial instruments over the counter (otc),
+that is, directly between institutions, has galloped ahead. According to the Bank for International Settlements, which tracks
+such things, in 2001 the average daily turnover of otc trading
+in derivatives worldwide was more than $760 billion, five times
+the level of trading on recognised exchanges throughout the
+world. Of this, about one-third was centred on London, the
+leader by far in otc trading of this kind.
+One reason for the growth in otc trading is the surge in
+demand for interest-rate products of one sort or another. The
+repayment of US government debt during the Clinton administration reduced the liquidity of long-term government bonds,
+forcing banks and other financial institutions to look for other
+ways of hedging their risks in the financial markets. Interestrate derivatives, in particular swaps traded directly between
+banks and other institutions, seemed to fit the bill. Swaps are
+transactions in which two parties (say, a bank and a securities
+THE CHANGING FACE OF MARKETS 7
+01 Essential Finance 10/11/06 2:21 PM Page 7
+house) exchange financial assets and the interest payments
+due on them, the idea being, of course, that both parties should
+benefit from the transaction. In the case of an interest-rate
+swap, a borrower who has raised, say, Swiss francs will exchange the interest payments on the loan with those of another
+borrower who may have raised, for example, dollars.
+Another influence on otc trading was the introduction of
+the euro, the new currency that came into circulation in 12 European countries at the beginning of 2002, replacing old stalwarts such as the Deutschemark, French franc, Italian lira and
+Spanish peseta. Financial institutions began trading in notional
+euros in 1999, and euro-denominated swaps quickly became a
+new benchmark for buyers and sellers of fixed-income instruments throughout Europe as the market for corporate debt in
+euros developed.
+With much of their currency and interest-rate risk eliminated
+by the introduction of the euro, financial institutions needed a
+tool with which to reduce the remaining credit risk (the chance
+that borrowers might renege on their debts). Credit derivatives –
+a way of laying off risk to other investors until the loan matures
+– became just such an instrument. Turnover in credit derivatives
+remains small compared with that of interest-rate contracts, but
+it is growing fast. The British Bankers’ Association reckons that
+in early 2002 London accounted for around half the expanding
+activity in credit derivatives, and that the market had increased
+no less than eight times since 1997.
+At the heart of any market is the free flow of information,
+which is why, according to Alan Greenspan, veteran chairman
+of the Federal Reserve, credit derivatives have proved so successful. They not only allow bank treasurers to lay off part of
+their risk, by reflecting the probability of default in the price;
+they also make the jobs of banks’ loan officers a lot easier. In the
+past, banks relied largely on their own credit analysis (together
+with what market information they could glean) to tell them
+whether a borrower was likely to default. Since the advent of
+credit derivatives, they have been able to judge from the price
+of a derivative the probability of a net loss in the underlying
+loan.
+But what about the dangers to those, such as insurance com8 ESSENTIAL FINANCE
+01 Essential Finance 10/11/06 2:21 PM Page 8
+panies, which pick up the risks? Some insurers promised guaranteed returns to their customers during the boom years of the
+1990s, only to find that, because falling stockmarkets had
+reduced the value of their assets and depleted their reserves,
+they were unable to fulfil their promises. To make up the
+income they have lost, insurers have been big buyers of credit
+derivatives and asset-backed securities, which have a higher
+yield and so are often riskier than other investments.
+Observers fret that the banking system may be storing up
+problems for itself through the wholesale transfer of risk to insurers and other investors. Indeed, some insurance companies
+are owned by banks. A number of Japanese insurers have gone
+bust in recent years because they were unable to meet guaranteed payments to their policyholders, and others have not been
+allowed to go bust because of the threat it would pose to the
+banking system. Because of falling stockmarkets, many more insurers around the world have been forced to increase penalties
+to savers for withdrawing their money, thus helping to shore up
+their own balance sheets.
+Insurance companies are carrying another burden too.
+During the boom years of the 1990s many insurers, particularly
+life companies, relied too heavily on equities. Many UK insurers
+held as much as four-fifths of their assets in shares, or at one
+point about 20% of all domestic equities traded on the London
+stockmarket. When the markets began to slide, the companies
+were forced to sell. After a while, the sales become self-fulfilling.
+The more equities tumble in value, the more the insurance companies have to sell in order to meet the levels of free capital demanded by regulators. Regulators have already had to be
+lenient in the way they apply their rules.
+Back-scratching
+It is not surprising that greater internationalisation has encouraged demands for closer co-operation between regulators in different countries and in different industries. It is an irony that a
+country with one of the most sophisticated financial systems,
+the United States, also has one of the most fragmented systems
+of regulation. While other countries moved during the late
+THE CHANGING FACE OF MARKETS 9
+01 Essential Finance 10/11/06 2:21 PM Page 9
+1990s to reduce the number of regulatory bodies – the UK, for
+example, has a single omnipotent Financial Services Authority –
+the United States has been reluctant to tamper with the jurisdictions held by such bodies as the Federal Reserve, the Securities
+and Exchange Commission (sec) and the Commodity Futures
+Trading Commission. As a result, duplication among agencies
+abounds.
+Nevertheless, there is little doubt that regulators, particularly
+those that preside over the world’s most sophisticated financial
+centres, are now co-operating much more than they used to
+even a decade ago. Although no single regulator oversees the
+giants of international finance (nor perhaps is one ever likely to),
+such firms are watched closely wherever they trade in the developed world. The key to effective regulation and smoothrunning financial markets is transparency as well as the free
+flow of information.
+One hope is that the improved regulation of banks will
+provide early warning of dangers. Under the Basel rules of the
+1980s, banks have had to link the amount of capital they must
+hold to the level of risk carried by the loans they make. This
+sounds fine in principle but does not always work in practice.
+Critics claim that the system is too crude: banks have to set aside
+as much capital for a loan to General Electric as they do to a
+hotelier in Poland. Basel 2, a more sophisticated version of the
+rules, is being drawn up by the central banks of the developed
+world. It would cover many more banks worldwide. Yet central
+bankers have found it difficult to agree on the scope of the new
+rules and how they should be applied. For example, some want
+more leeway for banks lending mainly to small businesses
+because, in theory, the risks are fewer. Originally planned for
+2004, the introduction of Basel 2, as the new rules are known,
+has been delayed until 2006, and even that may be in doubt.
+Better regulation of banks may reduce the chances of a collapse in the financial system, but should regulators also be
+thinking about ways of preventing the investment bubbles that
+lead to capital being misallocated in the first place? Until the
+dotcom bubble burst, the answer was invariably no. Advocates
+of efficient market theory argued that the system was inherently self-correcting. In efficient markets, prices are assumed to
+10 ESSENTIAL FINANCE
+01 Essential Finance 10/11/06 2:21 PM Page 10
+reflect fundamental values and to price in all available information. If ill-informed investors move prices away from their true
+value, informed ones will simply arbitrage them back again.
+Purists believe that if share prices rise to a level for which
+there is no obvious explanation, then investors will conclude
+that there is another less obvious explanation, such as the dawn
+of a new age of productivity or, as dotcom enthusiasts believed
+at the time, a “new economic paradigm”. What believers will
+not conclude, at least until after it has burst, is that a bubble
+exists – which, of course, is both irrational and inefficient.
+Many observers would like to see the Federal Reserve and
+other central banks attempt to control not just the level of inflation, their main preoccupation, but asset prices too. They argue
+that the costs of pricking an inflating bubble – possibly recession, deflation or sometimes a combination of the two – outweigh the risks of raising interest rates pre-emptively to prevent
+a bubble forming. After all, argue interventionists, history is littered with examples of the results of inaction on the part of
+central banks that have resulted in problems of a comparable
+magnitude; for example, Japan’s prolonged period of economic
+stagnation and occasional deflation following the bursting of its
+own asset-price bubble in the early 1990s.
+The danger, of course, is that when a bubble does burst, its
+impact can be far-reaching, not just on the financial markets but
+also on the underlying economy. The wealth effect, which helps
+to boost consumers’ confidence and so propel share prices ever
+higher when markets are rising, also works in reverse. Equally
+damaging can be the sudden loss of confidence produced by a
+realisation on the part of investors, particularly private ones,
+that they have been duped.
+Revelations in 2002 by Eliot Spitzer, the crusading attorneygeneral of New York State, that investment banks on Wall Street
+had routinely touted shares in public which they privately believed to have been “junk” had a predictable result. Aggrieved
+that they had been misled when they bought the shares of companies seeking initial public offerings during the heady days of
+the technology boom, investors called their lawyers and sued. It
+was not so much the knowledge that investment banks suffered
+from conflicts of interest – Wall Street has long had to balance
+THE CHANGING FACE OF MARKETS 11
+01 Essential Finance 10/11/06 2:21 PM Page 11
+its own interests with those of its clients – but the blatant way
+in which the abuses had occurred.
+The revelations cast doubt not just on the legitimacy of
+Chinese walls, the ability of investment banks to separate one
+function from another and therefore the interests of different
+clients, but also on the role of the securities analyst, the individual whose job it is to analyse the businesses of individual companies and to put a value on their shares. For years investors
+had taken what analysts write with a pinch of salt because,
+after all, they are often part of investment-banking teams that
+advise companies on (lucrative) acquisitions, mergers and the
+like. But the degree to which investment research had become
+the handmaiden of investment banking shocked many of them.
+Investors were also surprised by the extent to which the directors of big companies had been handed perks (often by giving
+them priority in share issues that they could later sell at a hefty
+profit) in return for investment-banking mandates and other advisory work.
+If nothing else, the greater degree of transparency that has been
+forced on companies, banks and the markets on which they
+both rely will provide additional safeguards for investors.
+Many were surprised by the failure of credit-rating agencies to
+spot the problems at Enron, WorldCom and others before they
+went bust. Such lapses raised questions about the agencies’
+roles in the credit markets. Their main business is rating the
+creditworthiness of bonds issued in the debt markets, but in the
+1990s, like auditors before them, they started to stray into other,
+more lucrative forms of consultancy. Where did the rating agencies get their information from, how was it analysed, and are
+their opinions worth the paper they were then written on, asked
+Congress.
+The loss of confidence resulting from the slew of corporate
+failures not only contributed to the demise of Andersen, then
+one of the world’s oldest accounting firms. It also led to the
+passing of the Sarbanes-Oxley Act by Congress in 2002, an
+attempt to bolster standards of corporate governance in the
+United States and one of the toughest pieces of securities legislation to be enacted since the Great Depression of the 1930s.
+Wisely, Congress let the sec, the main US regulator of securities
+markets, enforce the rules. Among other things, the act imposed
+an independent regulator on the auditing profession, in the
+form of the Public Company Accounting Oversight Board. It
+also banned auditors from doing some non-audit work for audit
+clients, thus preventing them from accepting certain types of
+lucrative consultancy work that might conflict with their responsibilities as auditors.
+Enron was brought down by the shifting of liabilities to offbalance-sheet “special-purpose vehicles”, whose existence was
+not disclosed to shareholders. To guard against similar abuses in
+future, the act requires public companies to provide details of
+THE CHANGING FACE OF MARKETS 13
+01 Essential Finance 10/11/06 2:21 PM Page 13
+all such entities above a certain threshold. It also tightened up
+the rules governing when senior executives of public companies may buy and sell shares (many directors had cashed in
+their options ahead of bad news, which depressed the share
+price); and it curtailed the use of pro-forma accounts, which
+exclude several inconvenient things, such as the cost of mergers,
+and so massage profits.
+To curb the power of chief executives, who until then had
+reigned supreme over most public companies in the United
+States (partly because they invariably combine their role with
+that of chairman), the nyse followed up with several measures
+of its own, aimed at giving shareholders more control over the
+companies they own. For example, all boards of companies
+quoted on the nyse have to have a majority of independent
+members. This excludes almost anyone who has a business link
+with the company, from suppliers to lawyers, bankers and consultants. A better answer in the long run might be to adopt the
+practice long favoured by most big companies in the UK: to split
+the roles of chief executive and chairman.

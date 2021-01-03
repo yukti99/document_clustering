@@ -1,0 +1,54 @@
+ome of the most useful examples of technology transfer between astronomy and industry include advances in imaging and communications. For example, a film called Kodak Technical Pan is used extensively by medical and industrial spectroscopists, industrial photographers, and artists, and was originally created so that solar astronomers could record the changes in the surface structure of the Sun. In addition, the development of Technical Pan — again driven by the requirements of astronomers — was used for several decades (until it was discontinued) to detect diseased crops and forests, in dentistry and medical diagnosis, and for probing layers of paintings to reveal forgeries (National Research Council, 1991).
+
+In 2009 Willard S. Boyle and George E. Smith were awarded the Nobel Prize in Physics for the development of another device that would be widely used in industry. The sensors for image capture developed for astronomical images, known as Charge Coupled Devices (CCDs), were first used in astronomy in 1976. Within a very few years they had replaced film not only on telescopes, but also in many people’s personal cameras, webcams and mobile phones. The improvement and popularity of CCDs is attributed to NASA’s decision to use super-sensitive CCD technology on the Hubble Space Telescope (Kiger & English, 2011).
+
+In the realm of communication, radio astronomy has provided a wealth of useful tools, devices, and data-processing methods. Many successful communications companies were originally founded by radio astronomers. The computer language FORTH was originally created to be used by the Kitt Peak 36-foot telescope and went on to provide the basis for a highly profitable company (Forth Inc.). It is now being used by FedEx worldwide for its tracking services.
+
+Some other examples of technology transfer between astronomy and industry are listed below (National Research Council, 2010):
+
+The company General Motors uses the astronomy programming language Interactive Data Language (IDL) to analyse data from car crashes.
+
+The first patents for techniques to detect gravitational radiation — produced when massive bodies accelerate — have been acquired by a company to help them determine the gravitational stability of underground oil reservoirs.
+
+The telecommunications company AT&T uses Image Reduction and Analysis Facility (IRAF) — a collection of software written at the National Optical Astronomy Observatory — to analyse computer systems and solid-state physics graphics.
+
+Larry Altschuler, an astronomer, was responsible for the development of tomography -  the  process of imaging in sections using a penetrating wave - via his work on reconstructing the Solar Corona from its projections. (Schuler, M. D. 1979)
+The aerospace sector shares most of its technology with astronomy — specifically in telescope and instrument hardware, imaging, and image-processing techniques.
+
+Since the development of space-based telescopes, information acquisition for defence has shifted from using ground-based to aerial and space-based, techniques. Defence satellites are essentially telescopes pointed towards Earth and require identical technology and hardware to those used in their astronomical counterparts. In addition, processing satellite images uses the same software and processes as astronomical images.
+
+Some specific examples of astronomical developments used in defence are given below (National Research Council, 2010):
+
+Observations of stars and models of stellar atmospheres are used to differentiate between rocket plumes and cosmic objects. The same method is now being studied for use in early warning systems.
+
+Observations of stellar distributions on the sky — which are used to point and calibrate telescopes — are also used in aerospace engineering.
+
+Astronomers developed a solar-blind photon counter — a device which can measure the particles of light from a source, during the day, without being overwhelmed by the particles coming from the Sun. This is now used to detect ultraviolet (UV) photons coming from the exhaust of a missile, allowing for a virtually false-alarm-free UV missile warning system. The same technology can also be used to detect toxic gases.
+
+Global Positioning System (GPS) satellites rely on astronomical objects, such as quasars and distant galaxies, to determine accurate positions.
+Astronomical methods can be used to find new fossil fuels as well as to evaluate the possibility of new renewable energy sources (National Research Council, 2010):
+
+Two oil companies, Texaco and BP, use IDL to analyse core samples around oil fields as well as for general petroleum research.
+
+An Australian company, called Ingenero, has created solar radiation collectors to harness the power of the Sun for energy on Earth. They have created collectors up to 16 metres in diameter, which is only possible with the use of a graphite composite material developed for an orbiting telescope array.
+
+Technology designed to image X-rays in X-ray telescopes — which have to be designed differently from visible-light telescopes — is now used to monitor plasma fusion. If fusion — where two light atomic nuclei fuse to form a heavier nucleus — became possible to control, it could be the answer to safe, clean, energy.
+Astronomers struggle constantly to see objects that are ever dimmer and further away. Medicine struggles with similar issues: to see things that are obscured within the human body. Both disciplines require high-resolution, accurate and detailed images. Perhaps the most notable example of knowledge transfer between these two studies is the technique of aperture synthesis, developed by the radio astronomer and Nobel Laureate, Martin Ryle (Royal Swedish Academy of Sciences, 1974). This technology is used in computerised tomography (also known as CT or CAT scanners), magnetic resonance imaging (MRIs), positron emission tomography (PET) and many other medical imaging tools.
+
+Along with these imaging techniques, astronomy has developed many programming languages that make image processing much easier, specifically IDL and IRAF. These languages are widely used for medical applications (Shasharina, 2005).
+
+Another important example of how astronomical research has contributed to the medical world is in the development of clean working areas. The manufacture of space-based telescopes requires an extremely clean environment to prevent dust or particles that might obscure or obstruct the mirrors or instruments on the telescopes (such as in NASA’s STEREO mission; Gruman, 2011). The cleanroom protocols, air filters, and bunny suits that were developed to achieve this are now also used in hospitals and pharmaceutical labs (Clark, 2012).
+
+Some more direct applications of astronomical tools in medicine are listed below:
+
+A collaboration between a drug company and the Cambridge Automatic Plate Measuring Facility allows blood samples from leukaemia patients to be analysed faster and thus ensures more accurate changes in medication (National Research Council, 1991).
+
+Radio astronomers developed a method that is now used as a non-invasive way to detect tumours. By combining this with other traditional methods, there is a true-positive detection rate of 96% in breast cancer patients (Barret et al., 1978).
+
+Small thermal sensors initially developed to control telescope instrument temperatures are now used to control heating in neonatology units — units for the care of newborn babies (National Research Council, 1991).
+
+A low-energy X-ray scanner developed by NASA is currently used for outpatient surgery, sports injuries, and in third-world clinics. It has also been used by the US Food and Drugs Administration (FDA) to study whether certain pills had been contaminated (National Research Council, 1991).
+
+Software for processing satellite pictures taken from space is now helping medical researchers to establish a simple method to implement wide-scale screening for Alzheimer’s disease (ESA, 2013).
+
+Looking through the fluid-filled, constantly moving eye of a living person is not that different from trying to observe astronomical objects through the turbulent atmosphere, and the same fundamental approach seems to work for both. Adaptive optics used in astronomy can be used for retinal imaging in living patients to study diseases such as macular degeneration and retinitis pigmentosa in their early stages. (Boston Micromachines Corporation 2010)

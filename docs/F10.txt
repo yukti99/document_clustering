@@ -1,0 +1,340 @@
+The goal of any finance function is to achieve three benefits: business support service, lowest costs and
+effective control of the environment. Money is the lifeblood of a business and finance is the nerve
+center. Finance is required to promote or create a business, gain assets, develop products, run market
+surveys, advertise. The conventional view of finances focuses on being reactive, efficient, and
+quantitative and risk averse. New innovative views focus on being vision-oriented, opportunity and
+growth focused, intuitive and risk-taking. In this unit we shall discuss the importance of accounting and
+finance in the global business and its role in managing the business effectively. In addition to this we shall also
+study about the types of markets, their functions and different types of financial instruments used in raising the
+funds. We shall also be discussing the significance of financial reporting.
+Accounting Simplified: There are certain basic accounting terms which are daily used in the
+business world. Before recording the transactions in the books, it is essential to understand these terms
+as these terms have their specific meaning in Accounting. These basic terms are called accounting
+terminology. They are as follows:
+Business Transaction :--- A business transaction is an economic activity of the business that changes
+its financial position. Whenever any business transaction takes place, it results in a change in the values
+of some of the assets, liabilities or capital.
+The chief features of a transaction are:--
+It involves an economic activity. For example, when goods are purchased or sold for cash or on credit or
+when salaries are paid to employees or when interest is paid on money borrowed from the bank, a
+business transaction takes place. Social activities are not considered as transaction because it is social
+engagement.
+Transactions may be classified into two types – external and internal. External transactions are those
+which involve economic activities between two independent business entities such as purchase or sale of
+goods. Internal transactions are those economic activities that take place entirely within one business
+entity such as depreciation charged on fixed assets.
+It results in a change in the financial position of the firm – a change in the values of some of the assets,
+liabilities or capital.
+The change must be capable of being expressed in terms of money. Loss of goods by fire or the losses
+due to a customer‘s inability to pay are transactions because the losses can be measured in terms of 
+money. However, when an efficient manager retires from the firm, the loss to the business may be quite
+large, but since it cannot be measure in terms of money, it will not be a business transaction.
+Assets: -- Anything which is in the possession or is the property of a business enterprise including the
+amounts due to it forms others is called an asset. In other words, anything which will enable a business
+enterprise to get cash or a benefit in future is an asset. Thus, Cash and Bank balances, Stock, Furniture,
+Machinery, land and Building, Bills Receivable, Money owing by Debtors etc. are all assets.
+―Assets are future economic benefits, the rights of which are owned or controlled by an organization or
+individual.‖
+Tangible and Intangible Assets :--- Tangible assets are those assets which can be seen and touched. In
+other words, which have a physical existence such as Land, Building, Plant, Furniture, Stock, Cash etc.
+Intangible assets are those assets which do not have a physical existence and which cannot be seen or
+felt. Examples of such assets are Goodwill, Patents, Trade Marks and Prepaid Expenses, Intangible
+assets are also valuable assets. For example, with the help of Patents(known-how) businessman is able
+to produce goods and his goodwill helps in attracting customers easily. Therefore the intangible asset
+help the firm in earning profits as much as the tangible assets. Hence, both tangible and intangible are
+valuable assets. Value of intangible assets is based on the benefit and facility available to the business
+from such assets.
+Wasting Assets:-- Wasting assets are those assets which are consumed through being worked or used,
+such as mines. As soon as all the minerals have been extracted, the mine becomes valueless. Oil wells 
+have the same characteristics. Wasting assets also include assets which get exhausted with the lapse of
+time, such as patents, Trade Marks, Leasehold Properties etc.
+Liability :-- It refers to the amount which the firm owes to outsiders (expecting the amount owed to
+proprietors). In the words of Finney and Miller, ―Liabilities are debts, they are amounts owed to
+Creditors.‖ This can be expressed as:
+
+Thus, when a firm purchases goods on credit form A, the amount owing to A is a liability. Likewise
+when a bank account is overdrawn, the amount owing to bank (i.e., bank overdraft) is known as a
+liability. Likewise the Bills Payable, Creditors, Unpaid Wages are also the examples of liabilities. 
+Capital Expenditure:--- Any expenditure which is incurred in acquiring or increasing the value of a fixed
+asset is termed as capital expenditure. As such, the amount spent on the purchase or erection of
+Building, Plant, Furniture etc. is capital expenditure. Such expenditure yields benefit over a long period
+and hence written in Assets.
+(ii) Revenue Expenditure:--- Any expenditure, the full benefit of which is received during one accounting
+period is termed as revenue expenditure. As such, all the revenue expenditures are debited to Trading
+and Profit & Loss Account. Such expenditure does not result in an increase in the earning capacity of the
+business but only helps in maintaining the existing earning capacity. It also does not bring into existence
+an asset of an enduring nature.
+Revenue:--- Revenue in accounting means the income of a recurring (regular) nature from any source.
+It consists of the amount received from sale of goods and from service provided to customers. It also
+includes receipt of rent, commission, dividend, interest etc. Revenue is related to day-to-day affairs of
+the business and should also be regular in nature. As such, the amount of capital introduced by the
+proprietor or borrowing loan is not revenue.
+Debtors :--- The term ‗Debtors‘ represents those persons or firms to whom goods have been sold or
+services rendered on credit and payment has not been received from them. They still owe some amount
+to the business. For example, if goods worth Rs. 10,000 have been sold to Mohan on Credit, he will
+continue to remain the debtor of the business so long as, he does not make the full payment.
+Receivables: --- Amount due from Debtors and Bill Receivables(B/R) is jointly termed as ‗Receivables‘
+or ‗Accounts Receivables‘.
+Creditors:-- The term ‗Creditors‘ represents those persons or firms from whom goods have been
+purchased or services procured on credit and payment has not been made to them. Some money is still
+owing to them. For example, if goods worth Rs. 5,000 are purchased from Govind on Credit, he will
+continue to remain the creditor of the firm so long as, the full payment is not made to him.
+Payables:-- Amount due to Creditors and for Bill Payables (B/P) is jointly termed as ‗Payables‘ or
+‗accounts payable‘.
+Goods:-- Goods include all those things which are purchased for resale or which are used for producing
+the finished products which are also meant to be sold. Thus, for a furniture dealer purchase of chairs and
+tables is termed as goods, while for others it is furniture and is termed as an asset. Similarly, for a
+stationary trader, stationary is goods, whereas for others it is expense.
+Cost:-- Cost can be termed be as the amount of resources given up in exchange for some goods or
+services. The resources given up are money or money‘s equivalent expressed in terms of money. The
+Chartered Institute of Management Accountants (CIMA), London has defined the term cost as follows
+―Cost is the amount of expenditure (actual or national) incurred on, or attributable to a specified thing or 
+activity‖. The specific thing or activity may be a product , service or any activity. Further, the
+expenditure incurred may be actual or national. The amount spent on the purchase of raw materials is
+the actual expenditure whereas national expenditure is one which does not involve any cash outlay.
+National expenditure is conceptual and deemed to have been incurred, e.g. rent of owned factory,
+interest on owned capital etc.
+Gain:--- It is a monetary benefit , profit or advantage resulting from events or transactions which are
+accidental to business such as sale of fixed assets, winning a court case or appreciation in the value of an
+asset. For example, if a building costing Rs. 6,00,000 is sold for Rs. 7,00,000; Rs. 1,00,000 will be gain
+on sale of building.
+Stock or Inventory:--- The term ‗stock‘ includes the value of those goods which are lying unsold at the
+end of accounting period. The Stock may be of two types:---
+(i) Opening Stock (ii) Closing Stock
+The term ‗Opening Stock‘ means the value of goods lying unsold at the beginning of the accounting
+period whereas the term ‗Closing Stock‘ means the value of goods lying unsold at the end of the
+accounting period.
+Types of Stocks :--- In case of a manufacturer , there can be opening and closing stocks of three types:--
+-
+(i) Stock of Raw Material :-- It includes stock of raw materials purchased for using them in products
+manufactured but still lying unused. For example, the value of cotton in case of cloth mills is the stock
+of raw material.
+(ii) Stock of Work-in-progress:-- It is also termed as stock of partly finished goods. It means goods in semifinished form. Such goods need further processing for converting into finished products. For the
+valuation of work in progress, the value of raw materials used in it, the cost of labor, power, fuel and
+other expenses on proportionate basis are included. In case of cloth mills the value of threads and the
+unfinished clothe will be the stock of work in progress.
+(iii) Stock of Finished Goods :--- It includes the stock of those goods which have been completely processed
+and are ready for sale but are lying unsold at the end of the accounting period. In case of cloth mills the
+value of finished cloth will be the value of finished goods.
+Calculation of Closing Stock:--- To ascertain the value of the closing stock, a complete list of all the
+items in the godown together with their quantities is prepared. Also the separate lists should be prepared
+for raw materials, semi-finished goods and finished goods in the stores. Preparation of such lists is
+called ‗stock taking‘.
+Care should be taken that the following goods are not included in the list of stocks:---
+I. Goods which have been sold but remain undelivered.
+II. Goods purchased and received but which have not been recorded in the purchase book.
+Following goods should be included in the list of stocks:---
+I. Goods sent to the customers on sale or return basis.
+II. Goods sent to the agents for sale but remain lying with them as unsold.
+It should always be kept in mind that stock is valued at cost price or realizable value, whichever is less. 
+Purchases:--- The term purchases is used only for the purchase of ‗Goods‘ in which the business deals.
+In case of manufacturing concern ‗goods‘ means acquiring of raw material for the purpose of conversion
+into finished product and then sale. In case of trading concern ‗goods‘ are those things which are
+purchased for resale. In both the cases the purpose is to make a profit by its resale. For example, if a
+cloth dealer purchases cloth for sale, the cloth so purchased will be called ‗goods‘. However, if the same
+cloth dealer purchases furniture for seating the customers, such furniture will not be termed as goods,
+but it will be an ‗Asset‘ and a separate account named ‗Furniture Account‘ will be opened for it.
+The term purchases includes both cash purchases and credit purchases of goods.
+Purchase Return :--- When purchased goods are returned to the suppliers these are known as returns.
+Such returns are also termed as ‗return outwards‘.
+Sales :--- The term ‗sales‘ is used only for the sales of those goods which are purchased for resale
+purposes. It also includes revenues from services provided to customers. The term ‗sales‘ is never used
+for sale of assets. For example, if a cloth dealer sells cloth, it will be termed as sales, but if the same
+cloth dealer sells old furniture or typewriter, it will not be termed as sales. The term sales includes both
+Cash and Credit sales.
+Sales Return :--- Some customers might return the goods sold to them. These are termed as sales
+returns or ‗return inwards‘.
+Loss :-- The term conveys two different meanings. First, it conveys the result of the business for a
+period when total expenses exceed the total revenues. For example, if revenues are Rs. 1,00,000 and
+expenses are Rs. 1,20,000, the loss will be Rs. 20,000. Second, it refers to some fact or activity against
+which firm receives no benefit. For example, loss due to fire, theft, accident etc. It may be noted that
+losses differ from expenses. Expenses are incurred to generate revenues whereas losses do not. For
+example, the theft of an asset is a loss but its depreciation is an expense.
+Profit :--- It is the excess of total revenues over total expenses of a business enterprise for an accounting
+period. Profit increases the investment of the owners.
+Voucher :-- A voucher is a document which provides the authorization to pay and on the basis of which
+the business transactions are, first of all, recorded in the books of accounts. A separate voucher is
+prepared for each transaction and it specifies the accounts to be debited or credited. The form of a
+voucher varies from firm to firm since vouchers are printed separately by different firms in their own
+names. Vouchers are prepared by accountant and each voucher is numbered and countersigned by an
+authorized person of the firm.
+Discount :-- It is rebate or an allowance given by the seller to the buyer. It is of two types:
+(i) Trade Discount :-- When discount is allowed by a seller to its customers at a fixed percentage on the list
+or catalogue price of the goods it is called trade discount. It is not recorded in the books of accounts as it
+is deducted in the invoice or cash memo itself from the gross value of goods.
+(ii) Cash Discount :--- When discount is allowed to the customers for making prompt it is called cash
+discount. For example, if a seller allows 2% discount for payment within a week it will be called cash
+discount. It is always recorded in the books of accounts.
+Drawing :--- Any cash or value of goods withdrawn by the owner for personal use or any private
+payments made out of business funds are called drawings.
+1.3 WORLD OF FINANCE
+Economic growth and development of any country depends upon a well-knit financial system.
+Financial System comprises a set of sub-system of financial institutions financial markets, financial
+instruments and services which help in the formation of capital. It provides a mechanism by which
+savings are transformed into investments. Thus, a financial system can be said to play a significant role
+in the economic growth of a country by mobilizing the surplus funds and utilizing them effectively for
+productive purposes.
+The financial system is characterized by the presence of an integrated, organized and regulated
+financial markets, and institutions that meet the short term and long term financial needs of both the
+householders and corporate sector.
+Financial Institutions the business organization dealing in the financial resources. They facilitate the
+meeting of the investors and borrowers. Financial institutions provide the various services to investors
+and borrowers, like investment opportunity, housing finance, venture capital, factoring, restructuring,
+diversification, etc. They buy and sell financial instruments. Financial institutions are intermediaries
+who facilitate smooth functioning of the financial system by making investors and buyers meet. They
+mobilize savings of the surplus units and allocate them in productive activities promising a better rate of
+return. It also provide services to entities (individuals, business, govt.) seeking advice on various issues
+ranging from restructuring top diversification plans. Financial Institutions are also termed as financial
+intermediaries because they act as middlemen between the savers and borrowers.
+Types of Financial Institutions
+Financial Institutions can be classified into two categories:
+A. Banking Institutions
+B. Non-Banking Financial Institutions
+Banking Institutions
+Reserve Bank of India is an apex institution which regulates, runs and supervises the banking
+institutions in India. Banking Regulation Act, 1949 is the main legislation through which commercial
+banks in India are governed. Banking institutions provide various financial services. These institutions
+can broadly be divided in two categories:
+1. Organized sector:- The organized banking sector in India is fairly developed and It is comprised of
+commercial banks, co-operative banks and the regional rural banks.
+Organized Sector
+a) Commercial Banks
+b) Co-operative banks
+c) Regional Rural Banks(BPBs)
+d) Foreign Banks
+2. Unorganized sector:- The unorganized sector is consisted of Indigenous bankers, money lenders or
+Sahukars or Seths etc. These persons are carrying out the function of banking in the unorganized
+manner.
+Unorganized Sector
+a) Indigenous Bankers
+b) Money Lenders
+(Seths and Sahukars)
+Non-Banking Institutions
+The non-banking institutions may be broadly into two groups:--
+a) Organized Financial Institutions
+b) Unorganized Financial Institutions
+The organized non-banking financial institutions include:
+1. Development Finance Institutions:-- It includes:
+a) The institutions like IDBI, IFCI, IIBI, IRDC at all India level.
+b) State Finance Corporations (SFCs), State Industrial Development Corporations (SIDCs) at state level.
+c) Agriculture Development Finance Institutions as NABARD, LDBS etc.
+Development banks provide medium and long term finance to the corporate and industrial sector and
+also take up promotional activities for economic development of the country.
+2. Investment Institutions:-- It includes those financial institutions which mobilize savings of the public
+at large through various schemes
+And invest these funds in corporate and government securities. These include LIC, GIC,UTI, and
+mutual funds.
+Unorganized Financial Institutions
+The unorganized non-banking financial include number of non-banking financial companies (NBFCs)
+providing whole range of financial services. These include hire-purchase and consumer finance 
+companies, leasing companies, housing finance companies, factoring companies, credit rating agencies,
+merchant banking companies etc. NBFCs mobilize public funds and provide loan able funds. There has
+been remarkable increase in the number of such companies since 1990‘s.
+Non-Banking Financial Institutions
+The NBCs raise their most of the funds in the form of Public Deposits. They accept the deposits for one
+to five years maturity period. They provide a variety of funds/asset based/advisory services. These
+institutions can be divided into two parts:
+Venture Capital:- A new type of professional investors emerged in late 1960s whose specially was to
+combine risk capital with entrepreneurial management. They also used advanced technology to launch
+new products and companies in the market place. They are known as venture capitalists. It means the
+term venture capital is an investment in a highly risky project with the objective of earning a high rate of
+return. Venture capital is a risky money which is invested in risky enterprises either as equity or debt
+capital.
+Venture capital was originated in the USA in the late sixties. In India, a beginning was made in this
+direction by setting up of venture capital divisions in ICICI, IDBI, AND IFCI, ICICI together with UTI
+has established a separate company –Technology Development and Information Company of India –as a
+venture capital company. The company‘s activities include venture capital financing, technology
+information, consultancy as well as other services like marketing, business management, vendor
+development etc.
+IV. Bill Discounting:- Finance companies undertake this service. It is an attractive fund based activity.
+The development of bill discounting as a financial service depends upon the existence of a bill market.
+These bills are drawn by the drawer on the drawee for the value of goods delivered to him. In India,
+banks mainly provide the funds for working capital required in the business through discounting of
+commercial bills. Whereas in other countries, bill finance is one of the major types of finance provided
+by banks.
+According to the Indian Negotiable Instrument Act 1881, ― it is a written instrument containing an
+unconditional order, signed by the maker, directing a certain person to pay a certain sum of money only
+to, or to the order of, a certain person, or to the bearer of the instrument.
+The bank purchases the bill payable on demand from the maker and credits his account with the amount
+of bill less discount. At the maturity, the acceptor makes the payment to the bank when the bill is
+presented for payment. In case of dishonor, the customer recovers the full amount from the maker. 
+After the 1992 scam, RBI restricted the bill discounting services provided by banks. Now the RBI has
+permitted banks to rediscount bill amongst themselves and with other financial institutions and finance
+companies.
+V. Housing Finance:-In India, the scope and need for the development of arrangement for supplying
+loans for housing. Because housing is considered as one of the basic necessities of man and the capital
+involved is so large that it is almost impossible and for middle and lower class to raise the required
+money from their own resources. Till the end of 1980s, it remained and underdeveloped sector. But in
+1988, the RBI established National Housing Bank. It initiated housing finance as a fund based activity.
+NHB is an apex housing finance institution in India. Till now, many financial institutions and
+companies in public, private and joint sectors have entered in this sector. Now the competition is so
+large that every day we can notice a new scheme launched by someone to attract customer towards
+itself.
+VI. Insurance Services:- Insurance is a contract between the insurer and the insured where the insurer
+gives an assurance to the person to pay him a certain sum of money in consideration of annual premium
+, against a specified risk such as fire or compensate the beneficiaries on the happening of a specified
+event such as accident or death. The written document between the two is called policy. The insurance
+service are of two types :
+(a) Life
+(b)General
+Until 1999, the LIC and GIC and its four subsidiaries were doing the insurance business in India. But
+after 1999, this sector was thrown open for the private sector also. In 1999, Insurance Regulatory and
+Development Authority (IRDA)was also set up to monitor insurance business in India. The entrance of
+the private sector in this field has increased the competition and forced two public sector giants to offer
+new attractive policies to customers.
+VII. Factoring:- Generally, the business transaction at wholesale level are made on credit. While at retail
+level it takes place partly on the basis of cash and credit. Sellers allow some time to buyers to make
+payments for the same. The due which arises during the process of credit are known as trade receivables
+for sellers. Sometimes, sellers may require promissory notes or trade acceptances from buyers. The
+sellers may make their own arrangements to collect receivables or they may hand over this job of
+collecting receivables to a specialized collection agency. Such an agency is known as FACTOR.
+Thus, FACTORING is a fund based financial service which provide resources to finance receivables as
+well as the facility of collection receivables. Factoring may be on a resource basis or without recourse
+basis. In a recourse basis, the risk of bad debts is borne by the client, whereas, in without recourse basis
+the risk of credit is borne by the factor. In India, SBI Commercial and Factoring Services Ltd. Was set
+up on 26th February, 1991 as the first factoring company. At present, SBI Factor and Commercial
+Services Ltd. And CAN Bank Factors Ltd. Are working as factoring organizations in the country.
+2) Fee Based/Advisory Services
+I. Merchant Banking:- Merchant banks are known as ― accepting and issuing houses‖ in the England
+and as ― investment banks‖ in the America. They are the issue houses which provide various services
+related with the floatation of new ventures and new companies, preparation and execution of new
+projects, consultancy and advice on the matters related with technical, financial, managerial and
+organizational fields. 
+The notification of the MINISTRY OF FINANCE defines a merchant bankers as,‖ Any person who is
+engaged in the business of issue management either by making arrangements regarding selling, buying
+or subscribing to securities as manager, consultant, advisor or corporate advisory service in relation to
+such issue management.
+Merchant banking was started in India in 1967 when the Grindlyas Bank received the licence from RBI.
+SBI started merchant banking in 1972 followed by number of commercial banks. Development banks
+like ICICI started this activity in 1973, followed by IFCI in 1986 and IDBI in 1991.
+II. Stock Broking and Depository Services:- SEBI was set up by the Government in 1991 to ensure that
+stock exchanges perform their self-regulatory role properly. Since then, stock broking become as a
+professional advisory service. Stock broker is a member of stock exchange who deals in securities and
+purchase and sell the securities on behalf of customers. Stock-broker has to get himself registered with
+SEBI. SEBI has also issued various guidelines to regulate the working of the brokers. Brokers are
+allowed to change commission on the buying and selling of securities.
+The growth in the business of securities led to think for creating a new, modern infrastructure consisting
+of depositories, paperless trading and computer recording of transactions. A beginning in this direction
+was made by setting up of Stock Holding Corporation of India Ltd. (SHCIL) in August 1988. The
+Government introduced the Ordinance for Depositories in September 1995 which was converted of new
+and existing issues, implementation of delivery system, scrip hypothecation and implementation of
+beneficial owner record-keeping. The National Stock Depository Ltd. (NSDL) was the first depository
+in India which was started in 1996.
+III. Credit Rating:- Credit rating is a grading service to investors which helps them in reducing their risk.
+Credit rating may be considered as a science as well as an art. It may by considered as a science
+because it involves a systematic approach to analyze the statistics with given formulas and as an art
+because there are too many variables which are to be judged.
+It is a technique in which relative ranking is provided to different instruments of a company on
+the basis of systematic analysis of the strengths and weaknesses of them. This credit ranking is done on
+the basis of analysis of financial statements, project analysis, credit worthiness factors and future
+prospects of the concern project/company. Credit rating is not a recommendation to purchase or sell or
+hold security. It is generally confined to debt instruments, but rating is also made for equity shares also.
+In India, CRISIL, CARE, ICRA, DPCR, Fitch Ratings India Ltd. Are doing the credit rating of
+industrial instruments/securities.
+Conclusion
+It may be concluded that the Indian Financial System has gone a variety of changes. To cope up with the fast
+expanding industrial demand for funds, Indian financial system is passing through the re-emergence of private
+financial institutions and strong structure of Indian financial institutions. Since the inception of the liberalization
+and globalization, Indian financial system is undergoing major transformation. A noticeable development has
+been the introduction of innovation in financial products. The corporate sector and financial institutions have
+offered a variety of financial instruments or securities to cater the increasing demand of bonds.
